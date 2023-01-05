@@ -12,6 +12,6 @@ export class ButtonComponent {
   constructor() {}
 
   onClick() {
-    console.log('Add');
+    this.btnClick.emit();
   }
 }
