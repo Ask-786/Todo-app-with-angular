@@ -1,4 +1,5 @@
 <div class="container">
   <app-header></app-header>
-  <app-todos></app-todos>
+  <router-outlet></router-outlet>
+  <app-footer *ngIf="hasRoute('/')"></app-footer>
 </div>
