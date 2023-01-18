@@ -23,6 +23,12 @@
       "day": "Very Soon ",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Something else",
+      "day": "Some days",
+      "reminder": false,
+      "id": 6
     }
   ]
 }

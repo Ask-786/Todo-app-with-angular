@@ -1,4 +1,4 @@
-import { Todos } from './Todos';
+import { Todos } from './model/Todos';
 
 export const TODOS: Todos[] = [
   {

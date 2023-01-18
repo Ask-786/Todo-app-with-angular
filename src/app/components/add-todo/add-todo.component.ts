@@ -1,5 +1,5 @@
 import { Component, Output, EventEmitter } from '@angular/core';
-import { Todos } from 'src/app/Todos';
+import { Todos } from 'src/app/model/Todos';
 import { UiService } from 'src/app/services/ui.service';
 import { Subscription } from 'rxjs';
 

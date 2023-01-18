@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Todos } from 'src/app/Todos';
+import { Todos } from 'src/app/model/Todos';
 import { Observable } from 'rxjs';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 
